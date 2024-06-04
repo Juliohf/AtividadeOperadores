@@ -13,7 +13,6 @@ public class Atividade1 {
 		Float x;
 		x = sc.nextFloat();
 		System.out.println(x);
-		1
 		System.out.println("Digite o abono");
 		Float y;
 		y = sc.nextFloat();
